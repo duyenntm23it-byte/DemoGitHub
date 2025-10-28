@@ -1,0 +1,5 @@
+$ git init
+$ git clone https://github.com/user/repository.git
+$ git add .
+$ git commit -m "Message"
+$ git push origin main
