@@ -1,0 +1,4 @@
+hello
+"Show message: xin chao"
+"Show message: tam biet"
+"Update after reivew"
